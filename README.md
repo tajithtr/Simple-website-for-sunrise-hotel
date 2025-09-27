@@ -1,22 +1,32 @@
-# Sunrise Hotel Website
+# 🌅 Simple Website for Sunrise Hotel
 
-![Cover Image](images/cover.png)
+A modern, responsive website built using **HTML5** and **CSS3** for the fictional **Sunrise Hotel**.  
+The site showcases hotel rooms, dining options, facilities, guest testimonials, and contact forms in a clean and elegant design.
 
-A modern, responsive hotel website built with **HTML5** and **CSS3**, designed for “Sunrise Hotel”. It features a sticky navigation bar, interactive cards, hero banners, and a clean, mobile-first design.
+---
 
-## 🏨 Features
+## 📸 Cover Image
 
-- Sticky header with logo and navigation  
-- Hero banner with overlay text  
-- Grid-based card layout for rooms, facilities, dining, testimonials  
-- Hover effects & smooth transitions  
-- Contact & subscription forms  
-- Fully responsive — works on desktop, tablet, and mobile  
-- Video & audio testimonials (if included)
+![Cover](images/cover.png)
+
+---
+
+## ✨ Features
+
+- 🏨 **Home Page** – Welcoming banner with hotel branding  
+- 🛏️ **Rooms Page** – Deluxe, Suite, Family, and Standard room details  
+- 🍽️ **Dining Page** – Restaurant, Café, Bar, and Menu highlights  
+- 💆 **Facilities Section** – Swimming pool, gym, spa, and conference hall  
+- 💬 **Testimonials** – Guest reviews with optional audio/video media  
+- 📩 **Contact Page** – Contact form and newsletter subscription  
+- 🎨 **Responsive Design** – Works across desktops, tablets, and mobiles  
+
+---
 
 ## 🗂️ Project Structure
 
-SunriseHotel/
+```text
+Simple-website-for-sunrise-hotel/
 │
 ├── index.html
 ├── rooms.html
@@ -25,17 +35,33 @@ SunriseHotel/
 ├── contact.html
 │
 ├── css/
-│ └── style.css
+│   └── style.css
+│
 ├── images/
-│ ├── banner.jpg
-│ ├── cover.png
-│ ├── room images, facility images, etc.
+│   ├── cover.png
+│   ├── logo.png
+│   ├── banner.jpg
+│   ├── deluxe-room.jpg
+│   ├── suite.jpg
+│   ├── family-room.jpg
+│   ├── standard-room.jpg
+│   ├── restaurant.jpg
+│   ├── pool.jpg
+│   ├── gym.jpg
+│   ├── spa.jpg
+│   ├── conference-hall.jpg
+│   ├── cafe.jpg
+│   ├── bar.jpg
+│   ├── salmon.jpg
+│   ├── steak.jpg
+│   └── pasta.jpg
 │
 └── media/
-├── testimonial1.mp4
-├── testimonial1.mp3
-├── testimonial2.mp4
-├── testimonial2.mp3
+    ├── testimonial1.mp4
+    ├── testimonial1.mp3
+    ├── testimonial2.mp4
+    └── testimonial2.mp3
+
 
 
 ## 🚀 How to Run Locally
@@ -43,6 +69,5 @@ SunriseHotel/
 1. Clone this repository  
    ```bash
    git clone https://github.com/tajithtr/Simple-website-for-sunrise-hotel.git
-2. Navigate into the project folder:
-   cd Simple-website-for-sunrise-hotel
-3. Open index.html in your browser (double-click or via a local server)
+2. Open index.html in your browser.
+3. Navigate through the pages via the sticky navigation bar.
