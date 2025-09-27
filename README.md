@@ -61,7 +61,7 @@ Simple-website-for-sunrise-hotel/
     ├── testimonial1.mp3
     ├── testimonial2.mp4
     └── testimonial2.mp3
----
+```
 
 
 ## 🚀 How to Run Locally
