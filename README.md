@@ -52,9 +52,9 @@ Simple-website-for-sunrise-hotel/
 │   ├── conference-hall.jpg
 │   ├── cafe.jpg
 │   ├── bar.jpg
-│   ├── salmon.jpg
-│   ├── steak.jpg
-│   └── pasta.jpg
+│   ├── menu1.jpg
+│   ├── menu2.jpg
+│   └── menu3.jpg
 │
 └── media/
     ├── testimonial1.mp4
